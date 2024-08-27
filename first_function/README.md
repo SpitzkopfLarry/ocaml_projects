@@ -1,4 +1,4 @@
-#First OCaml Projects
+# First OCaml Projects
 
 Welcome to the "First OCaml Projects" repository!
 
